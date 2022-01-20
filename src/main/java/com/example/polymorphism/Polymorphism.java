@@ -1,5 +1,4 @@
 package com.example.polymorphism;
-
 public class Polymorphism {
     public static void main(String[] args) {
         Tree s1=new Tree();

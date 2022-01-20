@@ -1,5 +1,4 @@
 package com.example.polymorphism;
-
 public class Leaves extends Branch{
     public void treeHas(){
         System.out.println("This part of tree is leaves");
