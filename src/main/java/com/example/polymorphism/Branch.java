@@ -2,6 +2,7 @@ package com.example.polymorphism;
 
 
 public class Branch extends Tree{
+    //SubClass
     public void treeHas(){
         System.out.println("This part of tree is branch");
     }
